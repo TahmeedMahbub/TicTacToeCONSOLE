@@ -1,0 +1,7 @@
+D:\OOP-2\TryTicTacToe\obj\Debug\TryTicTacToe.csprojAssemblyReference.cache
+D:\OOP-2\TryTicTacToe\obj\Debug\TryTicTacToe.csproj.CoreCompileInputs.cache
+D:\OOP-2\TryTicTacToe\bin\Debug\TryTicTacToe.exe.config
+D:\OOP-2\TryTicTacToe\bin\Debug\TryTicTacToe.exe
+D:\OOP-2\TryTicTacToe\bin\Debug\TryTicTacToe.pdb
+D:\OOP-2\TryTicTacToe\obj\Debug\TryTicTacToe.exe
+D:\OOP-2\TryTicTacToe\obj\Debug\TryTicTacToe.pdb
